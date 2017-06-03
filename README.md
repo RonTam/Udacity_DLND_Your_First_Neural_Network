@@ -2,7 +2,7 @@
 Project One for Udacity Deep Learning Course
 
 This Project Uses Python 3.6 and leverages the Anaconda distribution build for data science. 
-More Information can information for downloading Anaconda can be found here:
+More information and directions for downloading Anaconda can be found here:
 
 https://www.continuum.io/downloads.
 
